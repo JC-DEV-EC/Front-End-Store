@@ -58,7 +58,7 @@ Las contribuciones son bienvenidas. Si tienes alguna sugerencia o encuentras alg
 1. Haz un fork del proyecto.
 2. Crea una rama para tu característica (feature) o corrección (fix):
    ```bash
-   git checkout -b nombre-de-la-rama
+   git checkout -b main
    ```
 3. Realiza tus cambios y haz commit:
    ```bash
@@ -66,7 +66,7 @@ Las contribuciones son bienvenidas. Si tienes alguna sugerencia o encuentras alg
    ```
 4. Empuja tu rama:
    ```bash
-   git push origin nombre-de-la-rama
+   git push origin main
    ```
 5. Abre un pull request en GitHub.
 
